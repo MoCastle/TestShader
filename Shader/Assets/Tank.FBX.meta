@@ -1,0 +1,466 @@
+fileFormatVersion: 2
+guid: 8e9c34208783cdf4fb98f4001debdda7
+timeCreated: 1499643462
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _SMOKE_
+    100002: _SMOKE_01
+    100004: _SMOKE_02
+    100006: _SMOKE_03
+    100008: Box01
+    100010: Box03
+    100012: Box04
+    100014: Box05
+    100016: Box11
+    100018: Box12
+    100020: Box13
+    100022: Box14
+    100024: Box15
+    100026: Box16
+    100028: Box17
+    100030: Box18
+    100032: Box19
+    100034: Box21
+    100036: Box22
+    100038: Box23
+    100040: Box24
+    100042: Box25
+    100044: Box26
+    100046: Box27
+    100048: Box28
+    100050: Box29
+    100052: Box30
+    100054: Box31
+    100056: Box32
+    100058: Box33
+    100060: Box34
+    100062: Box35
+    100064: Box36
+    100066: Box37
+    100068: Box38
+    100070: Box39
+    100072: Box40
+    100074: Box41
+    100076: Box42
+    100078: Box43
+    100080: Box44
+    100082: Cylinder01
+    100084: default04
+    100086: Dummy01
+    100088: Dummy02
+    100090: Dummy03
+    100092: Dummy04
+    100094: Dummy05
+    100096: Dummy08
+    100098: Line14
+    100100: Line17
+    100102: Line18
+    100104: Line20
+    100106: MRN_Mesh_Chest_Light
+    100108: MRN_Mesh_Chest_Light01
+    100110: Object02
+    100112: Object04
+    100114: Object05
+    100116: Object09
+    100118: Object10
+    100120: Object100
+    100122: Object104
+    100124: Object107
+    100126: Object11
+    100128: Object15
+    100130: Object16
+    100132: Object17
+    100134: Object18
+    100136: Object94
+    100138: Object95
+    100140: Object98
+    100142: Object99
+    100144: objObject21
+    100146: Plane02
+    100148: Plane03
+    100150: Ref_StatusBar
+    100152: SM_ArmorySiegeTank
+    100154: Star2Part01exhaust06
+    100156: Star2Part01exhaust07
+    100158: Star2Part01exhaust08
+    100160: Star2Part02sparks04
+    100162: Star2Spot09
+    100164: Star2Spot33
+    100166: Star2Spot34
+    100168: //RootNode
+    100170: wwwwww01
+    100172: wwwwwww02
+    100174: wwwwwww03
+    100176: wwwwwwww03
+    400000: _SMOKE_
+    400002: _SMOKE_01
+    400004: _SMOKE_02
+    400006: _SMOKE_03
+    400008: Box01
+    400010: Box03
+    400012: Box04
+    400014: Box05
+    400016: Box11
+    400018: Box12
+    400020: Box13
+    400022: Box14
+    400024: Box15
+    400026: Box16
+    400028: Box17
+    400030: Box18
+    400032: Box19
+    400034: Box21
+    400036: Box22
+    400038: Box23
+    400040: Box24
+    400042: Box25
+    400044: Box26
+    400046: Box27
+    400048: Box28
+    400050: Box29
+    400052: Box30
+    400054: Box31
+    400056: Box32
+    400058: Box33
+    400060: Box34
+    400062: Box35
+    400064: Box36
+    400066: Box37
+    400068: Box38
+    400070: Box39
+    400072: Box40
+    400074: Box41
+    400076: Box42
+    400078: Box43
+    400080: Box44
+    400082: Cylinder01
+    400084: default04
+    400086: Dummy01
+    400088: Dummy02
+    400090: Dummy03
+    400092: Dummy04
+    400094: Dummy05
+    400096: Dummy08
+    400098: Line14
+    400100: Line17
+    400102: Line18
+    400104: Line20
+    400106: MRN_Mesh_Chest_Light
+    400108: MRN_Mesh_Chest_Light01
+    400110: Object02
+    400112: Object04
+    400114: Object05
+    400116: Object09
+    400118: Object10
+    400120: Object100
+    400122: Object104
+    400124: Object107
+    400126: Object11
+    400128: Object15
+    400130: Object16
+    400132: Object17
+    400134: Object18
+    400136: Object94
+    400138: Object95
+    400140: Object98
+    400142: Object99
+    400144: objObject21
+    400146: Plane02
+    400148: Plane03
+    400150: Ref_StatusBar
+    400152: SM_ArmorySiegeTank
+    400154: Star2Part01exhaust06
+    400156: Star2Part01exhaust07
+    400158: Star2Part01exhaust08
+    400160: Star2Part02sparks04
+    400162: Star2Spot09
+    400164: Star2Spot33
+    400166: Star2Spot34
+    400168: //RootNode
+    400170: wwwwww01
+    400172: wwwwwww02
+    400174: wwwwwww03
+    400176: wwwwwwww03
+    4300000: SM_ArmorySiegeTank
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: SM_ArmorySiegeTank
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 2
+      lastFrame: 163
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box05
+        weight: 1
+      - path: Box15
+        weight: 1
+      - path: Box16
+        weight: 1
+      - path: Box17
+        weight: 1
+      - path: Box18
+        weight: 1
+      - path: Box19
+        weight: 1
+      - path: Box21
+        weight: 1
+      - path: Box22
+        weight: 1
+      - path: Box23
+        weight: 1
+      - path: Box24
+        weight: 1
+      - path: Box25
+        weight: 1
+      - path: Box26
+        weight: 1
+      - path: Box27
+        weight: 1
+      - path: Box31
+        weight: 1
+      - path: Box32
+        weight: 1
+      - path: Box33
+        weight: 1
+      - path: Box34
+        weight: 1
+      - path: Box35
+        weight: 1
+      - path: Box36
+        weight: 1
+      - path: Box37
+        weight: 1
+      - path: Box38
+        weight: 1
+      - path: Box39
+        weight: 1
+      - path: Box40
+        weight: 1
+      - path: Box41
+        weight: 1
+      - path: Box42
+        weight: 1
+      - path: Box43
+        weight: 1
+      - path: Box44
+        weight: 1
+      - path: Dummy02
+        weight: 1
+      - path: Dummy02/Box01
+        weight: 1
+      - path: Dummy02/Box01/Object02
+        weight: 1
+      - path: Dummy02/Box01/Object02/MRN_Mesh_Chest_Light
+        weight: 1
+      - path: Dummy02/Box11
+        weight: 1
+      - path: Dummy02/Box11/Object11
+        weight: 1
+      - path: Dummy02/Box11/Object11/MRN_Mesh_Chest_Light01
+        weight: 1
+      - path: Dummy02/Box12
+        weight: 1
+      - path: Dummy02/Box13
+        weight: 1
+      - path: Dummy02/Box14
+        weight: 1
+      - path: Dummy02/Box14/Box04
+        weight: 1
+      - path: Dummy02/Box14/Box04/Box03
+        weight: 1
+      - path: Dummy02/Box14/Box04/Box03/Dummy05
+        weight: 1
+      - path: Dummy02/Box14/Box04/Box03/Dummy05/Object18
+        weight: 1
+      - path: Dummy02/Box14/Box04/Box03/Dummy05/Object107
+        weight: 1
+      - path: Dummy02/Box14/Box04/Box03/Object04
+        weight: 1
+      - path: Dummy02/Box14/Box04/Box03/Object04/Object17
+        weight: 1
+      - path: Dummy02/Box14/Box04/Box03/Object04/wwwwwww02
+        weight: 1
+      - path: Dummy02/Box14/Box04/Box03/Object05
+        weight: 1
+      - path: Dummy02/Box14/Box04/wwwwww01
+        weight: 1
+      - path: Dummy02/Box14/Box04/wwwwww01/Star2Part01exhaust06
+        weight: 1
+      - path: Dummy02/Box28
+        weight: 1
+      - path: Dummy02/Box28/Box29
+        weight: 1
+      - path: Dummy02/Box28/Box29/Box30
+        weight: 1
+      - path: Dummy02/Box28/Box29/Box30/Dummy08
+        weight: 1
+      - path: Dummy02/Box28/Box29/Box30/Dummy08/Object99
+        weight: 1
+      - path: Dummy02/Box28/Box29/Box30/Dummy08/Object100
+        weight: 1
+      - path: Dummy02/Box28/Box29/Box30/Dummy08/wwwwwww03
+        weight: 1
+      - path: Dummy02/Box28/Box29/Box30/Dummy08/wwwwwwww03
+        weight: 1
+      - path: Dummy02/Box28/Box29/Box30/Object98
+        weight: 1
+      - path: Dummy02/Dummy01
+        weight: 1
+      - path: Dummy02/Dummy01/Cylinder01
+        weight: 1
+      - path: Dummy02/Dummy01/Line14
+        weight: 1
+      - path: Dummy02/Dummy01/Line17
+        weight: 1
+      - path: Dummy02/Dummy01/Line18
+        weight: 1
+      - path: Dummy02/Dummy03
+        weight: 1
+      - path: Dummy02/Dummy03/Dummy04
+        weight: 1
+      - path: Dummy02/Dummy03/Dummy04/default04
+        weight: 1
+      - path: Dummy02/Dummy03/Dummy04/default04/objObject21
+        weight: 1
+      - path: Dummy02/Dummy03/Dummy04/default04/Star2Part01exhaust08
+        weight: 1
+      - path: Dummy02/Dummy03/Dummy04/Object09
+        weight: 1
+      - path: Dummy02/Dummy03/Dummy04/Object09/Object95
+        weight: 1
+      - path: Dummy02/Dummy03/Dummy04/Object10
+        weight: 1
+      - path: Dummy02/Dummy03/Dummy04/Object10/Object94
+        weight: 1
+      - path: Dummy02/Dummy03/Object15
+        weight: 1
+      - path: Dummy02/Dummy03/Object15/_SMOKE_02
+        weight: 1
+      - path: Dummy02/Dummy03/Object16
+        weight: 1
+      - path: Dummy02/Dummy03/Object16/_SMOKE_01
+        weight: 1
+      - path: Dummy02/Line20
+        weight: 1
+      - path: Dummy02/Plane02
+        weight: 1
+      - path: Dummy02/Plane02/Object104
+        weight: 1
+      - path: Dummy02/Plane03
+        weight: 1
+      - path: Dummy02/Plane03/_SMOKE_
+        weight: 1
+      - path: Dummy02/Plane03/_SMOKE_03
+        weight: 1
+      - path: Dummy02/Plane03/Star2Part01exhaust07
+        weight: 1
+      - path: Ref_StatusBar
+        weight: 1
+      - path: SM_ArmorySiegeTank
+        weight: 1
+      - path: Star2Part02sparks04
+        weight: 1
+      - path: Star2Spot09
+        weight: 1
+      - path: Star2Spot33
+        weight: 1
+      - path: Star2Spot34
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 4
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

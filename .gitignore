@@ -8,6 +8,9 @@ obj/
 *ide
 *ide-shm
 *ide-wal
+*.suo
+*.db
+*.opendb
 
 Program/MobileGame/Assets/outLog.txt
 Program/MobileGame/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache
